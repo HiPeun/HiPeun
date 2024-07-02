@@ -31,7 +31,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiPeun&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)
+
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@rmswo417/posts)
 
 ## 🏆 GitHub Trophies
