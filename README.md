@@ -3,8 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=HiPeun&color=blue)
 
 ## 🚀 나에 대해
-- 🌱 현재 Flutter, Java, Spring을 배우고 있습니다
-- 👯 오픈 소스 프로젝트에 협력하고 싶습니다
+- 🌱 비전공자임에도 불구하고 개발자라는 꿈이 생겨 열심히 개발 공부하는중 입니다.
 - 📫 연락 방법: rmswo417@naver.com
 - ⚡ 신입 개발자입니다
 
