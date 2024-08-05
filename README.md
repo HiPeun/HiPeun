@@ -3,26 +3,17 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=HiPeun&color=blue)
 
 ## 🚀 나에 대해
-- 🌱 비전공자임에도 불구하고 개발자라는 꿈이 생겨 열심히 개발 공부하는중 입니다.
-- 📫 연락 방법: rmswo417@naver.com
-- ⚡ 신입 개발자입니다
+- 🌱 Flutter 개발자
+- - 📫 연락 방법: rmswo417@naver.com
 
 ## 🛠️ Tech Stack
 - **Languages:**
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-- **Frameworks and Libraries:**
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 - **Tools:**
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Tomcat](https://img.shields.io/badge/Tomcat-0078D4?style=for-the-badge&logo=apache-tomcat&logoColor=white)
+
 
 - **IDEs:**
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
